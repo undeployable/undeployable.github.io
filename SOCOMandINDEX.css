@@ -1,0 +1,22 @@
+body {
+  background: tan;
+  text-align: center;
+  
+} img {
+  width: 500px;
+  border-color: black;
+  border-style: groove;
+  border-width: medium;
+  
+}
+p {
+  color: red;
+  float: center;
+}
+h1 {
+  color: rgb(45,65,45);
+  font-weight: bold;
+  float: center;
+  font-size: 40px
+
+{border-bottom-width: thick
